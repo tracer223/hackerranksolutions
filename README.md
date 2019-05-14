@@ -1,4 +1,4 @@
-# hackerranksolutions
+# hackerranksolutions (C++)
 Solutions to various problems on Hackerrank.com
 
 These solutions were compiled, debugged and tested on Hackerrank.com, then the same on my 2009 Macbook Pro using VScode, not Xcode as my editor. 
