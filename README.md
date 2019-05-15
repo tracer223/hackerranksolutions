@@ -1,7 +1,6 @@
 # hackerranksolutions (C++)
-Solutions to various problems on Hackerrank.com
 
-C++ problems I've solved from Hackerrank.com.
+Problems I've solved from Hackerrank.com using C++.
 
 to run using bash terminal:
 ```cd hackerranksolutions
